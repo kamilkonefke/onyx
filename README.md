@@ -1,0 +1,13 @@
+# Colors
+- Background #000000
+- Text
+- Highlight
+- Comment
+- Red
+- Green
+- Blue
+- Cyan
+- Orange
+- Purple
+- Pink
+- Yellow
